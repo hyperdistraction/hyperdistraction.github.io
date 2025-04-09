@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>My Blog</title>
+	<subtitle>My blog site.</subtitle>
+	<link href="https://hyperdistraction.github.io/journals/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://hyperdistraction.github.io/journals/"/>
+	<updated>2025-04-08T00:00:00+00:00</updated>
+	<id>https://hyperdistraction.github.io/journals/feed.xml</id>
+	<entry xml:lang="en">
+		<title>04&#x2F;07&#x2F;2025 - 04&#x2F;13&#x2F;2025</title>
+		<published>2025-04-08T00:00:00+00:00</published>
+		<updated>2025-04-08T00:00:00+00:00</updated>
+		<link href="https://hyperdistraction.github.io/journals/week-15-log/" type="text/html"/>
+		<id>https://hyperdistraction.github.io/journals/week-15-log/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;Feelings are just like weather. The only thing that matters is walking steadily in the same direction even when it’s raining. Perseverance is to persistently and only focus on what I can do.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;2025-mm-dd-mon&quot;&gt;2025-MM-DD (MON)&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025-mm-dd-mon&quot; aria-label=&quot;Anchor link for: 2025-mm-dd-mon&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What I was going to do&lt;&#x2F;li&gt;
+&lt;li&gt;What I did&lt;&#x2F;li&gt;
+&lt;li&gt;Reflections
+&lt;ul&gt;
+&lt;li&gt;Self-feedback&lt;&#x2F;li&gt;
+&lt;li&gt;Feeling&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2025-mm-dd-tue&quot;&gt;2025-MM-DD (TUE)&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025-mm-dd-tue&quot; aria-label=&quot;Anchor link for: 2025-mm-dd-tue&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;2025-mm-dd-wed&quot;&gt;2025-MM-DD (WED)&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025-mm-dd-wed&quot; aria-label=&quot;Anchor link for: 2025-mm-dd-wed&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;2025-mm-dd-thu&quot;&gt;2025-MM-DD (THU)&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025-mm-dd-thu&quot; aria-label=&quot;Anchor link for: 2025-mm-dd-thu&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;2025-mm-dd-fri&quot;&gt;2025-MM-DD (FRI)&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025-mm-dd-fri&quot; aria-label=&quot;Anchor link for: 2025-mm-dd-fri&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+</content>
+	</entry>
+</feed>
